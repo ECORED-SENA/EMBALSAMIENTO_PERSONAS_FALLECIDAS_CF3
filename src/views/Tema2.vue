@@ -63,7 +63,7 @@
       .col-lg-7
         .p-2.ps-lg-4(style='border-left: 4px solid #1D272B;')
           p.mb-0 Considerando la información anterior y con la intención de presentar 
-            b r acciones a ejecutar el tanatopractor para lograr el primer paso de la 
+            b acciones a ejecutar el tanatopractor para lograr el primer paso de la 
             b(style="color: #008F85;") tanatoestética, 
             b-none  relacionada con la 
             b adecuación de la posición del cadáver y las facciones del rostro, 

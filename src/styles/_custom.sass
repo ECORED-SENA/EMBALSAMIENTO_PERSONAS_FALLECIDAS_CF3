@@ -16,7 +16,12 @@
   border-radius: 8px
   padding: 4rem 4rem 4rem 1rem
   
-  
+.fondo-slider 
+  background-image: url("../assets/curso/tema3/fondo-slider.svg")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: left bottom  
+
   
 .resnone-lg
   display: none
@@ -91,14 +96,102 @@
 
 .bloque-texto-a.color-primario:before
   background-color: #EEEEF2
+
+//tarjetas con borde lateral
+.crd--gray
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,235,235,1) 100%)
+
+.crd
+  padding: 2rem
   
+.crd--banner
+  position: relative
+  padding: 3rem 2rem 3rem 3rem
+  background-color: #ccccc
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 20px
+    width: 3px
+    transform: translateY(-50%)
+    height: 60%
+    background-color: black  
+
+  .crd--round
+  border-radius: 12px
+
+.left--LineRed
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 0
+    transform: translateY(-50%)
+    width: 5px
+    height: 90%
+    background-color: #B42218
+
+.Rigth--LineGreen
+  position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    right: 0
+    transform: translateY(-50%)
+    width: 5px
+    height: 90%
+    background-color: #00978E
+//END tarjetas con borde lateral
+
+.cajon.color-primario 
+  background-color: #D1EBEA
+.bg--gray
+  padding: 2rem
+  background-color: #F6F6F6
+
+.bg--greenGray
+  background-color: #A6DAD7
+  &::before
+    background-color: #EEEEF2
+
+.Bottom-rigth 
+  position: absolute
+  bottom: 0
+  right: 2rem
+  transform: translateY(50%)
 
 
+//Card Slider Bottom LINE
+.crd--bottomLine   
+  min-height: 300px !important
+  background-color: white  
+  border-top-right-radius: 12px
+  border-top-left-radius: 12px  
+  -webkit-box-shadow: 0px 3px 16px 0px rgba(0,0,0,0.35)
+  box-shadow: 0px 3px 16px 0px rgba(0,0,0,0.35)
+  border-bottom: 7px solid #00978E
+  
+.crd--bottomLine_red
+  border-bottom: 7px solid #B42218
+//end Card Slider Bottom LINE
 
+.etiqueta
+  color: #12263F
+  background-color: #D1EBEA
 
+.clr--bg02
+  background: rgb(255,255,255)
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(224,221,221,1) 50%, rgba(255,255,255,0) 100%)
 
+.imgCont
+  max-width: 700px
 
-
+.acordion__accion__btn--a 
+  background-color: #00978e!important
+  color: #fff
 
 @media screen and ( max-width: 992px)
   .fondo-recuadro
@@ -118,3 +211,16 @@
     display: none
   .resnone-lg
     display: block
+  .crd--banner  
+    &::before
+      content: ""
+      position: absolute
+      top: 50%
+      left: 10px
+      width: 3px
+      transform: translateY(-50%)
+      height: 60%
+      background-color: black
+
+
+
