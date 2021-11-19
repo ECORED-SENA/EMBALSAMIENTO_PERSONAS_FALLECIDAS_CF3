@@ -104,7 +104,7 @@
             img(src="@/assets/curso/tema4/img4.svg", alt="alt", style='width: 260px').m-auto
         
 
-    figure
+    figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/VXQJ7DGmkio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     

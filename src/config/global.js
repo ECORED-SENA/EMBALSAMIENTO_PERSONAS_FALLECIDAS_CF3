@@ -47,6 +47,13 @@ export default {
         titulo: 'Comunicación en el sector funerario',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Verificación y ajustes: embalsamamiento',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
