@@ -107,7 +107,7 @@
         .row.mt-4.justify-content-center.align-items-center
           .col-11.col-lg-6.mb-4.mb-md-0
             h4 Honestidad  
-            p Es una característica de las personas que son correctas y coherentes en su pensar, actuar y hablar, es el primer paso para establecer relaciones interpersonales basadas en la confianza y el respeto mutuo, no solo con las familias que son los clientes sino con los compañeros y el trabajo en general..         
+            p Es una característica de las personas que son correctas y coherentes en su pensar, actuar y hablar, es el primer paso para establecer relaciones interpersonales basadas en la confianza y el respeto mutuo, no solo con las familias que son los clientes sino con los compañeros y el trabajo en general.
           .col-10.col-lg-6
             figure
               img(src='@/assets/curso/tema3/img11.png', alt='Texto que describa la imagen')

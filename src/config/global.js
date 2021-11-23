@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Aproximación a la Tanatoestética',
     descripcionCurso:
-      'El presente componente de formación surge ante pensar en la estética del cuerpo sin vida. Una actividad que está inmersa en el embalsamamiento de un cadáver. <br><br> El presente componente de formación surge con la intención de reconocer aspectos generales en relación con la estética del cuerpo sin vida. Una actividad que está inmersa en el embalsamamiento de un cadáver.  En este sentido, la experiencia de aprendizaje que surge en este momento le ayudará a desarrollar conocimientos, habilidades y actitudes relacionadas con la presentación de la imagen natural del cuerpo de acuerdo con su estado y características.',
+      'El presente componente de formación desarrolla el tema de la tanatoestética, como también la ética en el sector funerario, comunicación asertiva, verificación y ajustes en el servicio. <br><br> El presente componente de formación surge con la intención de reconocer aspectos generales en relación con la estética del cuerpo sin vida. Una actividad que está inmersa en el embalsamamiento de un cadáver.  En este sentido, la experiencia de aprendizaje que surge en este momento le ayudará a desarrollar conocimientos, habilidades y actitudes relacionadas con la presentación de la imagen natural del cuerpo de acuerdo con su estado y características.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner.svg'),
   },
@@ -99,6 +99,12 @@ export default {
       referencia: 'Braunstein, M. (2017). Todo sobre la técnica del color. ',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1i756fj/TN_cdi_elibro_books_ELB123958',
+    },
+    {
+      referencia:
+        'Escobar. G. (2000). Ética. Introducción a su problemática y su historia. McGraw-Hill.',
+      link:
+        'https://www.academia.edu/30060589/%C3%89tica_Introducci%C3%B3n_a_su_problem%C3%A1tica_y_su_historia_ESCOBAR_1_',
     },
     {
       referencia:
@@ -283,13 +289,13 @@ export default {
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
+      },*/
       {
-        nombre: '',
+        nombre: 'Madgi Khalifah Gamboa',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },*/
+      },
     ],
     gestoresRepositorio: [
       {

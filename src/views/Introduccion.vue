@@ -38,7 +38,7 @@
       .col-lg-7.mb-4.mb-lg-0
         .cajon.color-secundario.p-4.mb-4
           p.mb-0
-            b(style="color: #008F85;") La estética de un cuerpo sin vida
+            b(style="color: #008F85;") La estética de un cuerpo sin vida 
             b-none es una sensación planeada para el ritual final de este. 
             b A veces quienes asisten a esta ceremonia fijan su mirada en los detalles de los aspectos físicos 
             b-none del fallecido, y esta 

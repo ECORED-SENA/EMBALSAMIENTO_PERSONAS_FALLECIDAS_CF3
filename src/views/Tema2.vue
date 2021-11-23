@@ -47,7 +47,7 @@
       .col-lg-7.mb-4.mb-lg-0
         .cajon.color-secundario.p-4
           p.mb-0
-            b La preparación y acondicionamiento del cuerpo
+            b La preparación y acondicionamiento del cuerpo 
             b-none debe realizarse desde el momento mismo en que se inicia el embalsamamiento 
             b porque se deben tener claras las condiciones externas del rostro y optar por un estilo natural y conservador siempre y cuando las condiciones del cuerpo así lo permitan. 
             b(style="color: #008F85;") Existen restauraciones menores de acondicionamiento estético; 
@@ -202,7 +202,7 @@
               .tarjeta.bg-line3(style='border-radius: 8px; background-color:#fff; align-self: center;')
                 .p-4.ps-0
                   h3 Gases en los tejidos
-                  p.mb-0 Controlar desde la preservación arterial con solución concentrada y si se desprende la piel cauterizar la zona con pegamento .   
+                  p.mb-0 Controlar desde la preservación arterial con solución concentrada y si se desprende la piel cauterizar la zona con pegamento.   
               
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
@@ -287,7 +287,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 7
-            p.mb-0 Aplicar polvo sellante traslucido.
+            p.mb-0 Aplicar polvo sellante traslúcido.
           li 
             .lista-ol--cuadro__vineta
               span 8

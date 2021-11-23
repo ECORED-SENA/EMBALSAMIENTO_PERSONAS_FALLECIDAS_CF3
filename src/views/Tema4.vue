@@ -124,13 +124,13 @@
             p La comunicación no verbal del asesor del servicio o emisor (la postura corporal, los gestos, la ubicación y el movimiento de las manos) debe ser acorde con el mensaje que se está transmitiendo. 
               br
               br
-              | Se sugiere que cuando esté apunto de establecer un proceso de interacción con un deudo piense en la intención de lo que trasmitirá  su mensaje. 
+              | Se sugiere que cuando esté a punto de establecer un proceso de interacción con un deudo piense en la intención de lo que trasmitirá  su mensaje. 
 
           div(titulo="Gestos")
             p Los gestos idóneos ayudan a destacar actitudes. Una comunicación asertiva se caracteriza porque el asesor del servicio cuenta con un preciso manejo de los gestos para guiar la información y/o conversación. Mantener las manos abiertas, una postura relajada y una sonrisa amable, proyecta seguridad e interés de recepción con el cliente.
 
           div(titulo="La voz")
-            p El tono de voz es el cierre de una excelente comunicación; por lo tanto, dicho tono debe ser modulado, o sea, en un término medio que proporcione seguridad y firmeza, sin dejar de lado que esta debe contener: claridad, fluidez, sinceridad y confiablidad. Por ello, piense y analice antes de hablar. Aunado a esto es importante saber perfilar al cliente, con el fin de conocer la forma y tono de acercamiento.
+            p El tono de voz es el cierre de una excelente comunicación; por lo tanto, dicho tono debe ser modulado, o sea, en un término medio que proporcione seguridad y firmeza, sin dejar de lado que esta debe contener: claridad, fluidez, sinceridad y confiabilidad. Por ello, piense y analice antes de hablar. Aunado a esto es importante saber perfilar al cliente, con el fin de conocer la forma y tono de acercamiento.
 
           div(titulo="Oportunidad")
             p El asesor de servicio o emisor debe ser prudente para maximizar la recepción e impacto del mensaje. Por lo que el emisor escucha y al mismo tiempo estará evaluando la comunicación no verbal del cliente, para identificar el punto de interés, inclusive aspectos de predisposición al seguir escuchando al emisor que está transmitiendo la información de los servicios ofertados.
