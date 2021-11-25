@@ -221,6 +221,11 @@ export default {
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
+        nombre: 'John Alejandro Carmona Escobar.',
+        cargo: 'Experto temático',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
         nombre: 'Jhacesiz Mary Hincapié Atehortúa',
         cargo:
           'Instructora (EPC) – Líder Desarrollo Curricular Servicios Personales',
@@ -272,7 +277,7 @@ export default {
         cargo: 'Producción audiovisual',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
-      {
+      /*{
         nombre: 'Gilberto Junior Rodriguez Rodriguez',
         cargo: 'Producción audiovisual',
         centro:
@@ -295,7 +300,7 @@ export default {
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
+      },*/
       {
         nombre: 'John Andres Ayala Angarita',
         cargo: 'Desarrollo front-end',
