@@ -119,8 +119,6 @@ export default {
     {
       referencia:
         'Heredia, N. (2019). La comunicación asertiva dentro de las agencias funerarias. NovusFunerario.',
-      link:
-        'https://novusfunerario.com.mx/la-comunicacion-asertiva-dentro-de-las-agencias-funerarias/',
     },
     {
       referencia:
@@ -166,7 +164,7 @@ export default {
     {
       termino: 'Cera',
       significado:
-        'Material de moldeado o renovador de superficies restaurativo compuesto de cera de abeja, parafina, almidón etc., y un pigmento colorante que se ablandara con la temperatura corporal y refleja la luz de forma similar a la piel normal.',
+        'Material de moldeado o renovador de superficies restaurativo compuesto de cera de abeja, parafina, almidón etc., y un pigmento colorante que se ablandará con la temperatura corporal y refleja la luz de forma similar a la piel normal.',
     },
     {
       termino: 'Respeto',
@@ -191,13 +189,6 @@ export default {
         'Panasef Asociación Nacional de Servicios Funerarios. (2020). Los compromisos éticos del sector funerario [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/WD94qPyCu0E',
-    },
-    {
-      texto:
-        'Heredia, N. (2019). La comunicación asertiva dentro de las agencias funerarias. NovusFunerario.',
-      tipo: 'Página web',
-      link:
-        'https://novusfunerario.com.mx/la-comunicacion-asertiva-dentro-de-las-agencias-funerarias/',
     },
   ],
   creditos: {
@@ -321,6 +312,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

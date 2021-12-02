@@ -92,7 +92,7 @@
           .row.align-items-center.justify-content-center
             .col-lg-10.mb-4.mb-lg-0
               h3(align='left') En New York
-              p.mb-0(align='left') En la historia se ha reconocido a Joel E. Crandall, de Nueva York, por ser el primer embalsamador en escribir en 1912 un artículo sobre el cuidado cosmético postmortem. Este autor mencionó sobre la semicirugía al explicarle como la generación y la creación de miembros de fallecidos destrozados una descomposición, enfermedad o traumatismos. Su finalidad era presentarlos con una imagen natural. Crandall solicitaba para esta actividad una fotografía reciente de la persona fallecida, fijación de los tejidos del cadáver e implantes. Estos requerimientos se mantienen en la tanatoestética actual.
+              p.mb-0(align='left') En la historia se ha reconocido a Joel E. Crandall, de Nueva York, por ser el primer embalsamador en escribir en 1912 un artículo sobre el cuidado cosmético postmortem. Este autor mencionó sobre la semicirugía al explicarle cómo la generación y la creación de miembros de fallecidos destrozados por una descomposición, enfermedad o traumatismos. Su finalidad era presentarlos con una imagen natural. Crandall solicitaba para esta actividad una fotografía reciente de la persona fallecida, fijación de los tejidos del cadáver e implantes. Estos requerimientos se mantienen en la tanatoestética actual.
             .col-lg-2(data-aos="flip-right")
               figure
                 img.mx-auto(src='@/assets/curso/tema1/img6.svg' alt='Icono', style=' width: 105px')
@@ -103,7 +103,7 @@
                 img.mx-auto(src='@/assets/curso/tema1/img7.svg' alt='Icono', style=' width: 110px')
             .col-lg-10
               h3(align='left') Exponentes
-              p.mb-0(align='left') Otros antecedentes para destacar sobre la tanatoestética son las sistematizaciones del Dr. Sheridan Mayer redactadas por Robert G. Mayer y Edward C. Johnson. Ellos exponen procesos relacionados la antropometría, la anatomía, la teoría del color, la ortopedia, las técnicas de moldeado artístico y demás temáticas al campo mortuorio. Exponentes actuales como el Dr. Vernie Fountain usan sus métodos.
+              p.mb-0(align='left') Otros antecedentes para destacar sobre la tanatoestética son las sistematizaciones del Dr. Sheridan Mayer redactadas por Robert G. Mayer y Edward C. Johnson. Ellos exponen procesos relacionados con la antropometría, la anatomía, la teoría del color, la ortopedia, las técnicas de moldeado artístico y demás temáticas al campo mortuorio. Exponentes actuales como el Dr. Vernie Fountain usan sus métodos.
               
           .row.align-items-center.justify-content-center
             .col-lg-10.mb-4.mb-lg-0
